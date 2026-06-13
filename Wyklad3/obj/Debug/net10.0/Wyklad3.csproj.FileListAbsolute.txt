@@ -1,0 +1,15 @@
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.GeneratedMSBuildEditorConfig.editorconfig
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.AssemblyInfoInputs.cache
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.AssemblyInfo.cs
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.csproj.CoreCompileInputs.cache
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.sourcelink.json
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\bin\Debug\net10.0\Wyklad3.exe
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\bin\Debug\net10.0\Wyklad3.deps.json
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\bin\Debug\net10.0\Wyklad3.runtimeconfig.json
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\bin\Debug\net10.0\Wyklad3.dll
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\bin\Debug\net10.0\Wyklad3.pdb
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.dll
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\refint\Wyklad3.dll
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.pdb
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\Wyklad3.genruntimeconfig.cache
+E:\#DATA\#03_Studies\Podstawy Programowania\Projekty\pp-wyklady\Wyklad3\obj\Debug\net10.0\ref\Wyklad3.dll
